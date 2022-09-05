@@ -1,0 +1,4 @@
+#Sat Feb 05 16:48:03 IST 2022
+base.0=/Users/yashvardhan./StudioProjects/expense_Tracker/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
